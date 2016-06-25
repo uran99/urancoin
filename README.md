@@ -1,2 +1,2 @@
 # urancoin
-This is my forst altcoin!
+This is my first altcoin!
